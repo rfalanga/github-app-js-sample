@@ -34,7 +34,7 @@ using the [octokit.js rest methods](https://github.com/octokit/octokit.js#octoki
 ## Security considerations
 
 To keep things simple, this example reads the `GITHUB_APP_PRIVATE_KEY` from the
-environment.. A more secure and recommended approach is to use a secrets management system
+environment. A more secure and recommended approach is to use a secrets management system
 like [Vault](https://www.vaultproject.io/use-cases/key-management), or one offered
 by major cloud providers:
 [Azure Key Vault](https://learn.microsoft.com/en-us/azure/key-vault/secrets/quick-create-node?tabs=windows),
